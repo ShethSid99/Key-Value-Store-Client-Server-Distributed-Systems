@@ -1,0 +1,10 @@
+genericnode/WorkerUDP.class
+genericnode/GenericNode.class
+genericnode/WorkerTCP.class
+genericnode/Input.class
+genericnode/KeyValStore$1.class
+genericnode/RemoteKV.class
+genericnode/RMIServer.class
+genericnode/Command.class
+genericnode/WorkerRMI.class
+genericnode/KeyValStore.class
